@@ -1,6 +1,6 @@
 <template>
     <footer class="app-footer">
-      <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+      <p>&copy; 2024 Online Ticketing System. All rights reserved.</p>
     </footer>
 </template>
   
